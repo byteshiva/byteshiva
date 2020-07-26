@@ -1,5 +1,5 @@
 
-Hi there, thanks for stopping by, this is **Siva **.
+Hi there, thanks for stopping by, this is **Siva**
 
 I usally build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my pinned projects](#user-10637299-pinned-items-reorder-form), maybe you will love them. 😁
 
