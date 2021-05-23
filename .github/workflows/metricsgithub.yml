@@ -17,17 +17,12 @@ jobs:
 
           # Options
           user: byteshiva
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_visibility: all
           plugin_anilist: yes
           plugin_anilist_limit.characters: 22
           plugin_anilist_limit: 2
@@ -51,8 +46,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          plugin_licenses: yes
-          plugin_licenses_legal: yes
           plugin_lines: yes
           plugin_music: yes
           plugin_music_limit: 4
@@ -64,8 +57,12 @@ jobs:
           plugin_nightscout_urgenthighalert: 250
           plugin_nightscout_urgentlowalert: 50
           plugin_nightscout_url: https://example.herokuapp.com
+          plugin_notable: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
+          plugin_posts: yes
+          plugin_posts_limit: 4
+          plugin_posts_user: .user.login
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_rss: yes
@@ -74,6 +71,11 @@ jobs:
           plugin_screenshot_background: yes
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_year: current-year
+          plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_stock: yes
@@ -83,6 +85,7 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
+          plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
