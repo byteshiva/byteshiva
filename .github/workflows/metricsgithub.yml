@@ -56,6 +56,7 @@ jobs:
           plugin_nightscout_url: https://sivach.netlify.app/
           plugin_notable: yes
           plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: .user.website
           plugin_posts: yes
