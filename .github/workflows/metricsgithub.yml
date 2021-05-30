@@ -73,9 +73,6 @@ jobs:
           plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_stock: yes
-          plugin_stock_duration: 1d
-          plugin_stock_interval: 5m
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
