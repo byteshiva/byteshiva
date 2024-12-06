@@ -336,8 +336,8 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="296.1 329"/>
-                                <text x="60" y="60" dominant-baseline="central">90</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
+                                <text x="60" y="60" dominant-baseline="central">97</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -391,13 +391,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.33 s</div>
+                        <div class="audit text">0.25 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.59 s</div>
+                        <div class="audit text">0.51 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -433,13 +433,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.33 s</div>
+                        <div class="audit text">0.25 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.59 s</div>
+                        <div class="audit text">0.51 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -518,29 +518,29 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Soy Sentimental</div>
-                                    <div class="artist">EMJ Nebreda, CRRDR</div>
+                                    <div class="name">Aún Me Acuerdo</div>
+                                    <div class="artist">EBaskiat, BROKIX</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Get Down</div>
-                                    <div class="artist">Barbara Doza, Rawayana</div>
+                                    <div class="name">aguardiente</div>
+                                    <div class="artist">Miranda del Sol</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Cuando Tus Ojos Me Ven</div>
-                                    <div class="artist">uni</div>
+                                    <div class="name">Silencios</div>
+                                    <div class="artist">Sueño A Marte, Naranja Agria</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">LAFG (Like A Fuckin' Gansta)</div>
-                                    <div class="artist">EJambeau</div>
+                                    <div class="name">Acércate</div>
+                                    <div class="artist">BADS</div>
                                 </div>
                             </div>
                         </div>
@@ -642,6 +642,15 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">OpenAI Reinforcement Fine-Tuning Research Program</div>
+                                <div class="date">7 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Install postmarketOS on Android phone and use Docker as a home server</div>
                                 <div class="date">6 Dec 2024</div>
                             </div>
@@ -651,16 +660,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tokyo government gives workers 4-day workweek to boost fertility, family time</div>
-                                <div class="date">6 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Unplanned Impact of Mathematics (2011)</div>
+                                <div class="title">Tokyo is set to introduce a four-day workweek for government employees</div>
                                 <div class="date">6 Dec 2024</div>
                             </div>
                         </div>
@@ -1704,7 +1704,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                     </svg>
                                     <div class="name">
                                         <span>google-deepmind/alphafold3</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AlphaFold 3 inference pipeline.</div>
@@ -2283,7 +2283,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 12.9k out of 150m users</span>
+                                    <span class="gh">ranked 12.9k out of 145m users</span>
                                 </div>
                                 <div class="text">Published 423 public repositories</div>
                             </div>
@@ -2364,7 +2364,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="125.27310061601644 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="125.3579739904175 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2437,7 +2437,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 56.5k out of 150m users</span>
+                                    <span class="gh">ranked 56.5k out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 191 users</div>
                             </div>
@@ -2754,7 +2754,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2024, 00:00:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2024, 00:47:57 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
