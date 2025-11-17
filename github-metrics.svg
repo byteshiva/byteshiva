@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -395,13 +395,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.22 s</div>
+                        <div class="audit text">0.24 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.45 s</div>
+                        <div class="audit text">0.53 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -437,13 +437,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.22 s</div>
+                        <div class="audit text">0.24 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.45 s</div>
+                        <div class="audit text">0.53 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -517,20 +517,6 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">techno s3x!</div>
-                                    <div class="artist">ERIXXIA</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bésame</div>
-                                    <div class="artist">R!CH YASHEL</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
                                     <div class="name">centro aLt</div>
                                     <div class="artist">aLex vs aLex, S.3.R</div>
                                 </div>
@@ -538,8 +524,22 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">ESENCIAL</div>
-                                    <div class="artist">DEEIKEL</div>
+                                    <div class="name">Margarita</div>
+                                    <div class="artist">Gynebra</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Poquito</div>
+                                    <div class="artist">GioBulla</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">diferente</div>
+                                    <div class="artist">Mica Sotera</div>
                                 </div>
                             </div>
                         </div>
@@ -641,7 +641,16 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tracking users with favicons, even in incognito mode</div>
+                                <div class="title">Britney Spears' Guide to Semiconductor Physics</div>
+                                <div class="date">17 Nov 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Browser fingerprinting via favicon</div>
                                 <div class="date">17 Nov 2025</div>
                             </div>
                         </div>
@@ -652,15 +661,6 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <div class="infos">
                                 <div class="title">Heretic: Automatic censorship removal for language models</div>
                                 <div class="date">16 Nov 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The fate of "small" open source</div>
-                                <div class="date">17 Nov 2025</div>
                             </div>
                         </div>
                     </section>
@@ -687,7 +687,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 2 days
+                            Current streak 3 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -711,7 +711,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.57
+                            Average per day at ~1.58
                         </div>
                     </section>
                 </div>
@@ -1693,6 +1693,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3 1.7,2.3 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 4.800000000000001)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1713,7 +1720,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                     </svg>
                                     <div class="name">
                                         <span>prefix-dev/pixi</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Package management made easy</div>
@@ -1766,7 +1773,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                     </svg>
                                     <div class="name">
                                         <span>flox/flox-kind-demo</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1820,7 +1827,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                     </svg>
                                     <div class="name">
                                         <span>boa-dev/boa</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Boa is an embeddable Javascript engine written in Rust.</div>
@@ -1847,7 +1854,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        473
+                                        474
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1935,13 +1942,8 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                3
-                                <div class="bottom">Nov.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 4
+                                <div class="bottom">Nov.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2002,6 +2004,11 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                17
                             </div>
                         </div>
                     </section>
@@ -2011,13 +2018,8 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                3
-                                <div class="bottom">Nov.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 4
+                                <div class="bottom">Nov.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2078,6 +2080,11 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                17
                             </div>
                         </div>
                     </section>
@@ -2172,13 +2179,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                 </h2>
                 <div class="row">
                     <section class="row center">
-                        <img class="screenshot autosize" src="data:image/png;base64,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iEFRNcJ5cytV/WbPmVk9OXXvaubBI6unJ36kmnn9xPrzuQPUHKkxAsAyEhjnzJlTzZ49e8A/fU+z62LWFOfOrWY9/UQ159G/VbMv3bWaucubqpk/XrmauedK1czd3lLNufWUvuCoaVvylcAIAMtAYFTQ6+3tXejdkvqewLh4QXFOVVX/PW2baubub69m7vneaubeH+gLjPt8oJq5+zuqp49dp5r75wur2Y/9vZrbWy0QHAmMAPASB0YFRbnxxhuro48+ujr55JOrk046qf9P7/X5ddddV0+n6dOf5ldtcoCbSJZqLXNZrcHOnj+/mnnbOdWsfVapnv7JkGrWz10168CimnWgq2Yd0F09fdiYaubvz6lm/3Lb6umLvlo9/fhD1bz5zwRHAiMALCOB8bjjjqv+/Oc/V0888UT16KOPVo899lj9/3/+85/qn//8Z3XkkUfWjxNo+vRogV6rNpmaWlOzq75LNdDWAJne5/O0BtvWZt3W6TSNlp0Cc77M1vlav1uSgDpz5sxnzTdr1qxnba/+Zj71ZN08+t9p+1ZP7NBRPbX7O6un9l65mn3sR6pZR42pnj5qjWr2L1z15PQDq6ce/Xv1+LQ9qpknfbh66uZj+5pV58wiMALAshQYJ02aVAdDUVDL/1eAOPHEE+sAIHfccUf1u9/9rn59xRVX1MHCOg2o///HP/5R3X777dU111zT/7nWpf/tIfYF1pE+S4E0LUfftaZFy5Hf/va31SOPPFy/zpeZpkufp/f565SeRdVI0/LytKW05MFff1XVWwe4+dP2qqqztqrmnfmFau4ZW1czT9q8mj1pi2re5C9Us44dV82/6mdV7x8mVfOu/3FV3bhv1XvPhdac2lfzpsYIAMtIYFST6UMPPdTfXJq+U6H/3//+tzrhhBP6p73nnnuq448/vrr//vvrZtZf//rX86ZNm9Y7Y8aM3smTz5qvZtl99tln3hFHHFEv884776yefPLJ6oEHHqj+8Ic/VH/961+rm2++qTrttNPqADtjxozqvvvuq/7whxn18lVTnTJlSt28e8MNN1RXXXVVdeutt84/99xzex955JF6mjPPPLM68MAD5911113Vn/70p3rZN910U3XxxRdX55133jzNr3Vp3WeffXZdGz799NOqSy65ZMDm3zwoigK70vbQQw/1Pvjgg3VU/dWvflWfGGh7/va3v1UPPvhgve7p06fX8913/7+qW+/8Y/XQY09U//zXo/VyHn/yqerOP95dv77zT/fq9fwnZ82pbrr199Xd995XB9gsz3mOEQBeLoExNV2KgtpJJ504X/Ptu+++1THHHFMdcsghvdOnT+9VLfLkk0/qnTr18ur000+vzj333HpeBbUTTji+DmoHH3xwHVgmTpxYr1sB7MILL6yXrYA2ceLE3v3337869thj64C39957V4cccnA1bVqd/Oqcc86ppk6dWl8H1fIVrA877LB6faeddlqvAuAZZ5xR12j322+/6qijjqrn0bQKbNIuQKbt0zXVLbfcsq5J77XXXnOnTp06++9//3u13XbbVTvv/P3q8MMPr/bcc6/qoIMOqtO46aab1nn0w912q9YYM3rWxRde0Puzn/60L4ifflq18vtX6v3PY49UW225ZTVq1Mj506ZeVnWvNnzeKaecXFePVesmMALAyzgwqoa0/fbbz1ftb//99+9VkDr11FProHPttddWxxxzdPV///d/dUC67LLL+ps3tZzJkydXl19+eR0INY8C1vHHH9cfGC+55OLeww47bP7Pf/7zenoF0MMOO6z3zDPP7E1BbcqUc+oAqkCo12eddVYdpBQIL730UtUw66B55JFHVIceeqiW1fub39xYf3/LLbcsMjCqFrrjjjvWaT3hhBN6t9lmm14tc489dlegrG6//XfV1ltvXTcxn3/++dXnPve5ujapWvJll10299577+3daKON6rzYf//952+xxRZztX0HHHBAnW+33HJL70c/+tF6+wiMAPAyvcaYgoeC5eOPP17de++99fczZsyYf8cdd/T+61//qptBH3744eq++/5WB1QFPDWTJqrFqflUy1ETqWqRmv7KK6+sA6koHQpCd999d93sWjdR3ndf7403/rr36aefrqd54IH76+nUlKmArgCk9GgZ+kzLVROnapK33npr791339378MMPVUrjv//97/5rhgu7vqjlP/XUU/V7zaegqZuRtO11E+njj9ffqban7dY8yqt0zVOfaV36Xt8p7Zp+5syZvfrT/Fpefs2TplQAWEYCo64ZKojo2pkKcxXY+l93qSrA6FpiKsDTDTIpuOQ3uKRpRPPfdttt/Z9r2bfe+tv+gJRuhEk32+R3veY35qRg3DpNSkP6Lr8ZJn2XB/n85p9FPnZhd9em9eXX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" height="1280" width="1280" alt="" />
+                        <img class="screenshot autosize" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcYAAAHGCAYAAADuYispAAAACXBIWXMAAAsTAAALEwEAmpwYAAADNklEQVR4nO3BMQEAAADCoPVPbQo/oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADoZpcKAAGw8+stAAAAAElFTkSuQmCC" height="1280" width="1280" alt="" />
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2025, 04:51:07 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2025, 07:25:43 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
