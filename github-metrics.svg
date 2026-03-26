@@ -340,8 +340,8 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
-                                <text x="60" y="60" dominant-baseline="central">97</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -395,13 +395,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.22 s</div>
+                        <div class="audit text">0.27 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.46 s</div>
+                        <div class="audit text">0.48 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -437,13 +437,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.22 s</div>
+                        <div class="audit text">0.27 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.46 s</div>
+                        <div class="audit text">0.48 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -517,29 +517,29 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Que Raro</div>
-                                    <div class="artist">ZUCO OMG</div>
+                                    <div class="name">GRANADA</div>
+                                    <div class="artist">ELetón Pé</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">MARATÓN</div>
-                                    <div class="artist">Sam Eli</div>
+                                    <div class="name">15 de enero</div>
+                                    <div class="artist">DEL TORO</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Película</div>
-                                    <div class="artist">Mica Sotera, Hipnotica</div>
+                                    <div class="name">RAINFOREST</div>
+                                    <div class="artist">Obed Padilla</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">LO QUE PASA ES DISTINTO</div>
-                                    <div class="artist">Thomás Heredia</div>
+                                    <div class="name">La Vuelta</div>
+                                    <div class="artist">EMXKA</div>
                                 </div>
                             </div>
                         </div>
@@ -641,15 +641,6 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">False claims in a widely-cited paper. No corrections. No consequences</div>
-                                <div class="date">26 Mar 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">ARC-AGI-3</div>
                                 <div class="date">25 Mar 2026</div>
                             </div>
@@ -661,6 +652,15 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <div class="infos">
                                 <div class="title">My astrophotography in the movie Project Hail Mary</div>
                                 <div class="date">22 Mar 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">False claims in a widely-cited paper</div>
+                                <div class="date">26 Mar 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1729,7 +1729,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                     </svg>
                                     <div class="name">
                                         <span>nektro/zigmod</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦 A package manager for the Zig programming language.</div>
@@ -1782,7 +1782,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                     </svg>
                                     <div class="name">
                                         <span>gotalab/cc-sdd</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude Code, Codex, Opencode, Cursor, Github Copilot, Gemini CLI and Windsurf.</div>
@@ -2198,7 +2198,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2026, 08:17:53 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2026, 10:41:07 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
