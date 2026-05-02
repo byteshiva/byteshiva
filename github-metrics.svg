@@ -356,8 +356,8 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
-                                <text x="60" y="60" dominant-baseline="central">96</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Best Practices</span>
                         </div>
@@ -395,13 +395,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.33 s</div>
+                        <div class="audit text">0.27 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.44 s</div>
+                        <div class="audit text">0.50 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -437,13 +437,13 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.33 s</div>
+                        <div class="audit text">0.27 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.44 s</div>
+                        <div class="audit text">0.50 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -517,29 +517,29 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">NO PARA</div>
-                                    <div class="artist">ELetón Pé</div>
+                                    <div class="name">Inténtalo</div>
+                                    <div class="artist">Banowsky</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">La Respuesta Eres Tú</div>
-                                    <div class="artist">Chell</div>
+                                    <div class="name">tocando</div>
+                                    <div class="artist">Alex Andre, raquelita</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Puro</div>
-                                    <div class="artist">Danny Schiller</div>
+                                    <div class="name">Cómo Te Va?</div>
+                                    <div class="artist">MXKA</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sola Esta</div>
-                                    <div class="artist">Luna Luna</div>
+                                    <div class="name">No Te Ama Igual</div>
+                                    <div class="artist">EMarbo</div>
                                 </div>
                             </div>
                         </div>
@@ -641,8 +641,8 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dav2d</div>
-                                <div class="date">2 May 2026</div>
+                                <div class="title">Six Years Perfecting Maps on WatchOS</div>
+                                <div class="date">3 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -650,8 +650,8 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Six Years Perfecting Maps on WatchOS</div>
-                                <div class="date">3 May 2026</div>
+                                <div class="title">Dav2d</div>
+                                <div class="date">2 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2169,7 +2169,7 @@ emscripten  • wasm • Python • GoLang • Deno • Devops • Open Source �
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2026, 03:19:55 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2026, 04:20:44 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
